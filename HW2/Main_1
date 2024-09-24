@@ -1,0 +1,48 @@
+# main.py
+import sales.order
+import sales.delivery
+import sales.billing
+
+# Create an order
+order_id = sales.order.create_order("Laptop", 2)
+
+# Schedule a delivery
+sales.delivery.schedule_delivery(order_id)
+
+# Process billing for the order
+sales.billing.process_billing(order_id)
+# main.py
+from sales.order import create_order as create_sales_order
+from sales.delivery import schedule_delivery as start_delivery
+from sales.billing import process_billing as issue_billing
+
+# Create a sales order
+order_id = create_sales_order("Laptop", 2)
+
+# Start the delivery process
+start_delivery(order_id)
+
+# Issue billing for the created order
+issue_billing(order_id)
+# __init__.py
+
+# import the order module automatically
+from sales.order import create_order
+
+# default sales tax rate
+TAX_RATE = 0.07
+# main.py
+from sales import *
+
+# Create an order
+order_id = create_sales_order("Laptop", 2)
+
+# Schedule the delivery
+start_delivery(order_id)
+
+# Process billing for the order
+issue_billing(order_id)
+# main.py
+from sales.order import create_order
+
+create_sales_order("Laptop", 2)
