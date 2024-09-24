@@ -40,3 +40,6 @@ I have successfully completed all the following Python and Data Science tutorial
    Notebook: `numpy-tutorials.ipynb`  
    Status: ✅ Completed  
    Description: Completed NumPy practice, covering array manipulation, broadcasting, and mathematical operations.
+
+
+Note: for py file, I commented every task when I run it. I have all of them in main.py and Main_1.py. Thanks!
