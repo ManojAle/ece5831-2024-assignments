@@ -1,1 +1,38 @@
+Python and Data Science Tutorials - Assignment Completion
+I have successfully completed all the following Python and Data Science tutorials using Jupyter Notebooks in VSCode. Below is the summary of the assignments:
 
+Completed Assignments:
+Introduction to Python
+Platform: LearnPython.org
+Status: ✅ Completed
+Description: Learned Python basics, including variables, data types, control flow, and functions.
+
+Data Science with Python
+Notebook: learn-python-2.ipynb
+Status: ✅ Completed
+Description: Worked with the cars.csv dataset using pandas for data manipulation and matplotlib for visualization.
+
+Advanced Python Tutorials
+Notebook: learn-python-3.ipynb
+Status: ✅ Completed
+Description: Covered advanced topics such as OOP, file handling, and external libraries.
+
+Python Basics (Sections 1-10)
+Notebook: python-tutorial-1-10.ipynb
+Status: ✅ Completed
+Description: Reinforced Python fundamentals including loops, functions, and data structures.
+
+Python Basics (Section 11)
+Script: python-tutorial-11.py
+Status: ✅ Completed
+Description: Explored file handling, working with JSON data, and exception management.
+
+Python Basics (Sections 12, 13, 15)
+Notebook: python-tutorial-12-15.ipynb
+Status: ✅ Completed
+Description: Learned about regular expressions, decorators, and context managers.
+
+NumPy Tutorial
+Notebook: numpy-tutorials.ipynb
+Status: ✅ Completed
+Description: Completed NumPy practice, covering array manipulation, broadcasting, and mathematical operations.
