@@ -1,5 +1,5 @@
 import pandas as pd
-from logic_gates import AndGate, NandGate, OrGate, NorGate, XorGate
+from logic_gate import AndGate, NandGate, OrGate, NorGate, XorGate
 
 # Define test cases
 test_cases = [
@@ -66,4 +66,4 @@ for test in test_cases:
 
 # Display the results in a DataFrame
 df = pd.DataFrame(results)
-
+print(df)
