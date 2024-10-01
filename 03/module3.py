@@ -1,7 +1,6 @@
 import pandas as pd
 from logic_gate import AndGate, NandGate, OrGate, NorGate, XorGate
 
-# Define test cases
 test_cases = [
     # AND Gate
     {"gate": "AND", "inputs": (1, 1), "expected": 1},
