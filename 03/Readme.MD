@@ -91,14 +91,6 @@ You can install these dependencies using `pip`:
 pip install numpy pandas
 ```
 
-## GitHub Repository Structure
-
-When uploading to GitHub, ensure your repository follows this structure:
-
-```
-https://github.com/<user-id>/ece5831-yyyy-assignments/03
-```
-
 Include the following files in the `03` directory:
 - `logic_gate.py`
 - `module3.py`
