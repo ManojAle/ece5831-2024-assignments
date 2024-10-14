@@ -104,6 +104,11 @@ rock-paper-scissors/
 - Ensure that `keras_model.h5` and `labels.txt` are located inside the `model` directory before running the scripts.
 - The model file and labels file can be exported from Teachable Machine.
 
+## Youtube 
+
+- Youtube Link for the Demo:
+`https://youtu.be/mRw650LkEso`
+
 ## License
 
 This project is open-source and licensed under the MIT License.
