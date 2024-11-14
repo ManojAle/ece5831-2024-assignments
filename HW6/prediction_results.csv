@@ -11,7 +11,7 @@ Filename,Actual Digit,Predicted Digit,Status
 1_5.jpg,1,1,Success
 2_1.jpg,2,2,Success
 2_2.jpg,2,4,Fail
-2_3.jpg,2,5,Fail
+2_3.jpg,2,9,Fail
 2_4.jpg,2,6,Fail
 2_5.jpg,2,2,Success
 3_1.jpg,3,1,Fail
@@ -38,7 +38,7 @@ Filename,Actual Digit,Predicted Digit,Status
 7_2.jpg,7,7,Success
 7_3.jpg,7,3,Fail
 7_4.jpg,7,7,Success
-7_5.jpg,7,1,Fail
+7_5.jpg,7,3,Fail
 8_1.jpg,8,5,Fail
 8_2.jpg,8,1,Fail
 8_3.jpg,8,5,Fail
