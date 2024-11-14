@@ -57,7 +57,7 @@ Trains the two-layer network on the MNIST dataset using `TwoLayerNetWithBackProp
   - Iterations: 10,000
   - Batch size: 16
   - Learning rate: 0.01
-- The trained model is saved as `your_last_name_mnist_model.pkl` (replace `your_last_name` with your last name).
+- The trained model is saved as `manoj_model.pkl`.
 
 ### 6. `module6.ipynb`
 Jupyter Notebook demonstrating the training process, accuracy visualization, and testing of the trained model.
@@ -83,7 +83,7 @@ Logs prediction results from testing on custom images, indicating success or fai
 
 ## Training the Model
 1. Run `train.py` to train the model using the MNIST dataset.
-2. The trained model parameters are saved in the `Model` folder as `your_last_name_mnist_model.pkl`.
+2. The trained model parameters are saved in the `Model` folder as `manoj_model.pkl`.
 
 ### Example Command
 ```bash
