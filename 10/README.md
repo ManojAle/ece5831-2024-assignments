@@ -92,3 +92,8 @@ Epoch 12/20
 ## Author
 
 Manoj Alexender
+
+
+## Drive link for the Model
+
+``` https://drive.google.com/file/d/1T-tCtTztw1jl6MiEjRWwckCchToegXPO/view?usp=sharing ```
